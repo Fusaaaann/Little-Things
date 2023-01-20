@@ -1,3 +1,9 @@
 .vscode/**
 *.txt
 *.exe
+.profile
+.gitignore
+**venv
+**node_modules
+lib
+.vs
