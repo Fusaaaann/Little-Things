@@ -80,9 +80,7 @@ https://leetcode-cn.com/circle/discuss/swTp2v/ | 我学编程时最后悔的事�
 https://leetcode.com/problems/house-robber/discuss/156523/From-good-to-great.-How-to-approach-most-of-DP-problems | From good to great. How to approach most of DP problems. - LeetCode Discuss
 https://softwareengineering.stackexchange.com/questions/22416/is-embedded-programming-closer-to-electrical-engineering-or-software-development | Is embedded programming closer to electrical engineering or software development? - Software Engineering Stack Exchange
 https://zhuanlan.zhihu.com/p/164834413 | 如何制作系统架构图？ - 知乎
-https://zh.wikipedia.org/wiki/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B | 软件工程 - 维基百科，自由的百科全书
 https://zh.wikipedia.org/wiki/%E6%95%8F%E6%8D%B7%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91 | 敏捷软件开发 - 维基百科，自由的百科全书
-https://zh.wikipedia.org/wiki/%E7%9C%8B%E6%9D%BF_(%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91) | 看板 (软件开发) - 维基百科，自由的百科全书
 https://tms-outsource.com/blog/posts/software-development-plan/ | How to Create a Software Development Plan for Your Dev Team
 https://github.com/oznu/homebridge-config-ui-x | oznu/homebridge-config-ui-x: The Homebridge UI. Monitor, configure and backup Homebridge from a browser.
 https://medium.com/javarevisited/top-10-unix-and-linux-productivity-tips-for-programmers-and-developers-c748129cf3e8 | 9 simple tips to work faster in the Linux command line | by javinpaul | Javarevisited | Medium
@@ -99,6 +97,10 @@ https://github.com/tomwhite/hadoop-book/tree/3e | tomwhite/hadoop-book at 3e
 https://programmercarl.com/%E5%89%8D%E5%BA%8F/%E5%88%B7%E4%BA%86%E8%BF%99%E4%B9%88%E5%A4%9A%E9%A2%98%EF%BC%8C%E4%BD%A0%E4%BA%86%E8%A7%A3%E8%87%AA%E5%B7%B1%E4%BB%A3%E7%A0%81%E7%9A%84%E5%86%85%E5%AD%98%E6%B6%88%E8%80%97%E4%B9%88%EF%BC%9F.html#%E4%B8%8D%E5%90%8C%E8%AF%AD%E8%A8%80%E7%9A%84%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86 | 刷了这么多题，你了解自己代码的内存消耗么？ | 代码随想录
 https://stackoverflow.blog/2022/10/31/comparing-frameworks-for-cross-platform-apps-flutter-vs-react-native/?cb=1 | Flutter vs. React Native: Which is the right cross-platform framework for you? - Stack Overflow Blog
 https://github.com/jerryjliu/gpt_index | jerryjliu/gpt_index: An index created by GPT to organize external information and answer queries!  
+https://timdettmers.com/2023/01/16/which-gpu-for-deep-learning/ | The Best GPUs for Deep Learning in 2023 — An In-depth Analysis  
+https://www.joelonsoftware.com/ | Joel on Software  
+https://martinfowler.com/ | martinfowler.com  
+
 
 ### Building 
 https://github.com/drandrewthomas/ESP32_GRBL_CNC_Wireless_Pendant | drandrewthomas/ESP32_GRBL_CNC_Wireless_Pendant: A wireless GRBL CNC pendant project based on the ESP32 micro-controller
@@ -244,6 +246,10 @@ https://blog.skk.moe/post/what-happend-to-dns-in-proxy/ | 浅谈在代理环境�
 https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md | the-art-of-command-line/README-zh.md at master · jlevy/the-art-of-command-line
 https://github.com/hoochanlon/w3-goto-world | hoochanlon/w3-goto-world: 🍅 Git/AWS/Google 镜像 ,SS/SSR/VMESS节点,WireGuard,IPFS, DeepWeb,Capitalism 、行业研究报告的知识储备库
 https://crypto.stanford.edu/pbc/notes/numbertheory/ | Number Theory - Number Theory
+https://www.yuque.com/sunsa-i3ayc/sivu7h/rxg3uq6iue2f231t | DiffSinger基础教程 
+https://jaywalnut310.github.io/vits-demo/index.html | Audio Samples from "Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech"  
+https://capnproto.org/ | Cap'n Proto -- RPC
+
 
 ## Tools
 https://notevibes.com/authentication.php | Sign in to Notevibes.com
