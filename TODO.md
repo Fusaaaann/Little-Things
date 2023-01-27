@@ -39,6 +39,9 @@ https://greenhornfinancefootnote.blogspot.com/ | 綠角財經筆記
 https://alamak.cc/d/112 | （转推）網際網路會降低表達能力？ - à la mak
 https://mindyourwriting.wordpress.com/ | Mind Your Writing
 https://thenetworkstate.com/ | The Network State
+https://mp.weixin.qq.com/s/astQts9keulS18podi0R_g | 图解朴素贝叶斯  
+https://mp.weixin.qq.com/s/HDL-a1mFDoneCJ7Phchwww | AI绘画：提高Stable Diffusion构图能力的技巧  
+https://mp.weixin.qq.com/s?__biz=MzIyMzc3MjIyMw==&mid=2247484460&idx=1&sn=0cff6b0d874a75996f9d4481599abb88 | 朴素贝叶斯分类算法和实例演示  
 
 ### Learning
 https://www.learningscientists.org/blog/2016/6/23-1 | Learn how to Study Using... Retrieval Practice — The Learning Scientists
@@ -72,6 +75,12 @@ https://dev.to/johannesjo/super-productivity-how-to-grow-fond-of-time-tracking-a
 https://medium.com/heptabase/my-vision-the-context-c73e29981685#a168 | How everything begins. | Heptabase
 https://sspai.com/post/39996 | 第一章 | Todoist 如何满足 GTD - 少数派
 https://space.bilibili.com/1632276842/channel/collectiondetail?sid=695083&ctype=0 | Ayumu爱讲数学的个人空间_哔哩哔哩_bilibili
+https://mp.weixin.qq.com/s/Kzbq8t7BuJSNpWWbt5gkPg | 一位好导师什么样？看诺奖得主提出的10条黄金标准丨开启科研之路  
+https://mp.weixin.qq.com/s/xI4TD60bWD4rp2_h0M6c-g | 论文如何能不水？先看看300多年前的论文长什么样  
+https://mp.weixin.qq.com/s/_JL3g8l1oVQ_bHB4iQNiPA | 数据科学入门必备统计学知识  
+https://mp.weixin.qq.com/s/xN9CjP48vE-myMzQylXkvg | 今天，我们怎么做教育？  
+https://mp.weixin.qq.com/s/u6XLgqz9UAMfwaJSORxGXA | 思维训练：复杂问题分析方法综述  
+https://mp.weixin.qq.com/s/WFYNnpEXZ11hVtS7dW5uHg | 一个简单的框架，快速梳理知识体系  
 
 ### Coding
 https://blog.csdn.net/weixin_41484240/article/details/81945680 | 【刷题-每天一算法】最优赛马问题（贪心算法）_blank_downdowndown的博客-CSDN博客_赛马问题算法
@@ -97,9 +106,14 @@ https://github.com/tomwhite/hadoop-book/tree/3e | tomwhite/hadoop-book at 3e
 https://programmercarl.com/%E5%89%8D%E5%BA%8F/%E5%88%B7%E4%BA%86%E8%BF%99%E4%B9%88%E5%A4%9A%E9%A2%98%EF%BC%8C%E4%BD%A0%E4%BA%86%E8%A7%A3%E8%87%AA%E5%B7%B1%E4%BB%A3%E7%A0%81%E7%9A%84%E5%86%85%E5%AD%98%E6%B6%88%E8%80%97%E4%B9%88%EF%BC%9F.html#%E4%B8%8D%E5%90%8C%E8%AF%AD%E8%A8%80%E7%9A%84%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86 | 刷了这么多题，你了解自己代码的内存消耗么？ | 代码随想录
 https://stackoverflow.blog/2022/10/31/comparing-frameworks-for-cross-platform-apps-flutter-vs-react-native/?cb=1 | Flutter vs. React Native: Which is the right cross-platform framework for you? - Stack Overflow Blog
 https://github.com/jerryjliu/gpt_index | jerryjliu/gpt_index: An index created by GPT to organize external information and answer queries!  
+https://github.com/karpathy/nanoGPT | karpathy/nanoGPT: The simplest, fastest repository for training/finetuning medium-sized GPTs.  
 https://timdettmers.com/2023/01/16/which-gpu-for-deep-learning/ | The Best GPUs for Deep Learning in 2023 — An In-depth Analysis  
 https://www.joelonsoftware.com/ | Joel on Software  
 https://martinfowler.com/ | martinfowler.com  
+https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/ | Why You Only Need to Test with 5 Users  
+https://memcached.org/ | memcached - a distributed memory object caching system  
+https://github.com/IIJ-NetBSD/netbsd-src | IIJ-NetBSD/netbsd-src
+https://mp.weixin.qq.com/s/CZvSQtQ7Op9G4iro2cZKlQ | 软件开发人员如何提升自己的架构设计能力？  
 
 
 ### Building 
@@ -168,6 +182,8 @@ https://medium.com/heptabase/how-to-do-research-with-modern-note-taking-tools-4b
 https://dart.dev/samples | Language samples | Dart
 https://uiverse.io/ | Open-Source UI elements - made with CSS and HTML
 https://www.amazon.com/Weapons-Weak-Everyday-Peasant-Resistance/dp/0300036418 | Weapons of the Weak: Everyday Forms of Peasant Resistance: Scott, James C.: 9780300036411: Amazon.com: Books
+https://towardsdatascience.com/create-your-own-stable-diffusion-ui-on-aws-in-minutes-35480dfcde6a | Create Your Own Stable Diffusion UI on AWS in Minutes | by Heiko Hotz | Jan, 2023 | Towards Data Science  
+https://www.whowhatwear.com/how-to-capsule-wardrobe/slide3 | The Capsule Wardrobe: How to Reduce Your Closet to 37 Pieces | Who What Wear  
 
 ### Ubuntu
 https://askubuntu.com/questions/59356/how-do-i-get-chinese-input-to-work | language support - How do I get Chinese input to work? - Ask Ubuntu
@@ -249,6 +265,7 @@ https://crypto.stanford.edu/pbc/notes/numbertheory/ | Number Theory - Number The
 https://www.yuque.com/sunsa-i3ayc/sivu7h/rxg3uq6iue2f231t | DiffSinger基础教程 
 https://jaywalnut310.github.io/vits-demo/index.html | Audio Samples from "Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech"  
 https://capnproto.org/ | Cap'n Proto -- RPC
+https://minnie.tuhs.org/cgi-bin/utree.pl?file=V6 | https://minnie.tuhs.org/cgi-bin/utree.pl?file=V6  
 
 
 ## Tools
@@ -316,15 +333,19 @@ https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcc
 https://developers.google.com/optimization | OR-Tools  |  Google Developers
 https://clickhouse.com/blog/extracting-converting-querying-local-files-with-sql-clickhouse-local | Extracting, converting, and querying data in local files using clickhouse-local
 https://rargb.to/ | RARBG Rarbg Index page - RARBG.to - RARBG Proxy
+https://github.com/containers/podman | containers/podman: Podman: A tool for managing OCI containers and pods.  
+https://github.com/lxc/lxd | lxc/lxd: Powerful system container and virtual machine manager  
+https://github.com/containerd/containerd | containerd/containerd: An open and reliable container runtime  
+https://github.com/containers/buildah | containers/buildah: A tool that facilitates building OCI images.  
+https://github.com/moby/buildkit | moby/buildkit: concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit  
+https://github.com/GoogleContainerTools/kaniko | GoogleContainerTools/kaniko: Build Container Images In Kubernetes  
+https://github.com/GoogleContainerTools/kaniko | GoogleContainerTools/kaniko: Build Container Images In Kubernetes  
+https://www.andre-gaschler.com/rotationconverter/ | 3D Rotation Converter  
 
 
 ## Gyms of coding 
 
-http://www.sangofighter.com/ | Sango Fighter
-https://web.archive.org/web/20111017031608/http://www.gainax.co.jp/soft/primas/ | GAINAX NET ｜ 作品 ｜ 软件与商品 ｜ 公主创客世界
-https://www.old-games.com/download/10461/microsoft-musical-instruments | Microsoft Musical Instruments Download (1992 Educational Game)
-http://www.computinghistory.org.uk/det/49231/DK-Cat/ | DK Cat - Software - Computing History
-https://dos.zczc.cz/games/%E5%A4%A7%E5%AF%8C%E7%BF%813/ | 大富翁3 - 在线 DOS 游戏
+
 https://github.com/PKU-GeekGame/geekgame-0th/tree/main/problemset | geekgame-0th/problemset at main · PKU-GeekGame/geekgame-0th
 https://google.github.io/styleguide/cppguide.html | Google C++ Style Guide
 https://algorithm-visualizer.org/ | Algorithm Visualizer
@@ -332,8 +353,17 @@ https://codeforces.com/ | Codeforces
 https://www.hackerrank.com/ | HackerRank
 https://ctf-wiki.org/ | 简介 - CTF Wiki
 https://leetcode.com/ | LeetCode - The World's Leading Online Programming Learning Platform
+https://www.dalipan.com/#/main/search?restype=1 | 大力盘 - 网盘搜索引擎  
+http://www.dushudaren.com/ | 读书达人 – 读后感_读书笔记_书摘  
+https://xmsoushu.com/index.html#/ | 熊猫搜书_熊猫搜索_一站式读书学习导航站_聚合电子书及文档搜索_xmsoushu_xmsearch  
+
 
 ## Game 
+http://www.sangofighter.com/ | Sango Fighter
+https://web.archive.org/web/20111017031608/http://www.gainax.co.jp/soft/primas/ | GAINAX NET ｜ 作品 ｜ 软件与商品 ｜ 公主创客世界
+https://www.old-games.com/download/10461/microsoft-musical-instruments | Microsoft Musical Instruments Download (1992 Educational Game)
+http://www.computinghistory.org.uk/det/49231/DK-Cat/ | DK Cat - Software - Computing History
+https://dos.zczc.cz/games/%E5%A4%A7%E5%AF%8C%E7%BF%813/ | 大富翁3 - 在线 DOS 游戏
 https://www.beatstage.com/ | BeatStage
 https://sourceforge.net/projects/dosbox/ | DOSBox download | SourceForge.net
 https://www.google.com/search?q=incredible+machine&oq=incredible+machine&aqs=chrome..69i57j0i512l9.3800j1j7&sourceid=chrome&ie=UTF-8 | incredible machine - Google 搜索
