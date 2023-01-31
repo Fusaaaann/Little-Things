@@ -1,7 +1,3 @@
-https://www.mysarawakmetro.com/kuts | KUTS | SARAWAK METRO
-
-
-
 ## Music 
 https://www.nicovideo.jp/watch/sm33546451 | Ghost Girl／Hatsune Miku - Niconico Video
 https://musescore.com/user/29245294/scores/6751123 | ヤキモチ/起风了 Sheet music for Piano, Vocals (Solo) | Musescore.com
@@ -42,6 +38,8 @@ https://thenetworkstate.com/ | The Network State
 https://mp.weixin.qq.com/s/astQts9keulS18podi0R_g | 图解朴素贝叶斯  
 https://mp.weixin.qq.com/s/HDL-a1mFDoneCJ7Phchwww | AI绘画：提高Stable Diffusion构图能力的技巧  
 https://mp.weixin.qq.com/s?__biz=MzIyMzc3MjIyMw==&mid=2247484460&idx=1&sn=0cff6b0d874a75996f9d4481599abb88 | 朴素贝叶斯分类算法和实例演示  
+https://press.princeton.edu/books/hardcover/9780691177502/radical-markets | Radical Markets | Princeton University Press  
+https://traveloggers.matters.news/ | Traveloggers  
 
 ### Learning
 https://www.learningscientists.org/blog/2016/6/23-1 | Learn how to Study Using... Retrieval Practice — The Learning Scientists
@@ -341,6 +339,8 @@ https://github.com/moby/buildkit | moby/buildkit: concurrent, cache-efficient, a
 https://github.com/GoogleContainerTools/kaniko | GoogleContainerTools/kaniko: Build Container Images In Kubernetes  
 https://github.com/GoogleContainerTools/kaniko | GoogleContainerTools/kaniko: Build Container Images In Kubernetes  
 https://www.andre-gaschler.com/rotationconverter/ | 3D Rotation Converter  
+https://automatisch.io/ | Automatisch - Open Source Zapier Alternative  
+https://scale.com/blog/chatgpt-vs-claude#Analysis%20of%20fictional%20works | Meet Claude: Anthropic’s Rival to ChatGPT | Blog | Scale AI  
 
 
 ## Gyms of coding 
@@ -368,15 +368,12 @@ https://www.beatstage.com/ | BeatStage
 https://sourceforge.net/projects/dosbox/ | DOSBox download | SourceForge.net
 https://www.google.com/search?q=incredible+machine&oq=incredible+machine&aqs=chrome..69i57j0i512l9.3800j1j7&sourceid=chrome&ie=UTF-8 | incredible machine - Google 搜索
 https://classicreload.com/nuclear-war.html | Nuclear War | ClassicReload.com
-https://playclassic.games/games/simulation-dos-games-online/play-epic-baseball-online/ | Epic Baseball | Play game online!
 https://jontopielski.itch.io/puzzle-sigma | Puzzle Sigma by Jon Topielski, beardy, Thoof
 https://stargardengames.itch.io/factori | factori by Star Garden Games
-https://olhermite.itch.io/ghostel | Ghostel by olhermite, Valgrim, MonsieurJon, Greyo, Iwa, Sephius
 https://lucas-delvallet.itch.io/grappling-scarf | Grappling Scarf by Lucas Delvallet
 https://mvln.itch.io/phasing-puller | Phasing Puller by MVLN
 https://gallsy.itch.io/telephone-trouble | Telephone Trouble by Gallsy, angtongi, Dangles, Rawb91
 https://troleoleo.itch.io/paisible-soiree-etoiles | Paisible Soirée au Fil d'Étoiles by troleoleo, schouery
-https://team-bugulon.itch.io/static-cling | Static Cling by Team Bugulon, SnakeBlock, MistaJUB, THX, orisghost, NotYourSagittarius, squp, Oroshibu, saturnyoshi
 https://franciscomurias.itch.io/tetherfeather | Tether n' Feather by franciscomurias, menjah, CeruleanCrocodile, shchav, itisnicole, MioMilo
 https://walaber-ent.itch.io/mrs-modifier | Mrs. MODIFIER by Walaber Entertainment
 https://iceberglettuce.itch.io/octo | Octo and the Pocket Dimensions by IcebergLettuce
@@ -387,3 +384,4 @@ https://nathanpowlesslynes.itch.io/tongue-tied | Tongue-Tied by Nathan Powless-L
 https://chaoclypse.itch.io/ball-to-the-wall | BALL TO THE WALL by Chaoclypse, Conspite, quantumtea
 https://serponge.itch.io/sparklink | SparkLink by Serponge
 https://www.minetest.net/#features | Minetest - Open source voxel game engine
+https://summer-afternoon.vlucendo.com/ | Summer Afternoon  
