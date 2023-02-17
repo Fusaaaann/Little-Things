@@ -40,6 +40,8 @@ https://mp.weixin.qq.com/s/HDL-a1mFDoneCJ7Phchwww | AI绘画：提高Stable Diff
 https://mp.weixin.qq.com/s?__biz=MzIyMzc3MjIyMw==&mid=2247484460&idx=1&sn=0cff6b0d874a75996f9d4481599abb88 | 朴素贝叶斯分类算法和实例演示  
 https://press.princeton.edu/books/hardcover/9780691177502/radical-markets | Radical Markets | Princeton University Press  
 https://traveloggers.matters.news/ | Traveloggers  
+https://www.books.com.tw/products/0010927784 | 博客來-阿姨，我不想努力了！？ ：那些勵志書不會告訴你的人生真相  
+https://journals.sagepub.com/doi/full/10.1177/0265407518761225 | How many hours does it take to make a friend? - Jeffrey A. Hall, 2019  
 
 ### Learning
 https://www.learningscientists.org/blog/2016/6/23-1 | Learn how to Study Using... Retrieval Practice — The Learning Scientists
@@ -79,6 +81,7 @@ https://mp.weixin.qq.com/s/_JL3g8l1oVQ_bHB4iQNiPA | 数据科学入门必备统�
 https://mp.weixin.qq.com/s/xN9CjP48vE-myMzQylXkvg | 今天，我们怎么做教育？  
 https://mp.weixin.qq.com/s/u6XLgqz9UAMfwaJSORxGXA | 思维训练：复杂问题分析方法综述  
 https://mp.weixin.qq.com/s/WFYNnpEXZ11hVtS7dW5uHg | 一个简单的框架，快速梳理知识体系  
+https://news.ycombinator.com/item?id=34612352 | Freelancers' resumes
 
 ### Coding
 https://blog.csdn.net/weixin_41484240/article/details/81945680 | 【刷题-每天一算法】最优赛马问题（贪心算法）_blank_downdowndown的博客-CSDN博客_赛马问题算法
@@ -182,6 +185,7 @@ https://uiverse.io/ | Open-Source UI elements - made with CSS and HTML
 https://www.amazon.com/Weapons-Weak-Everyday-Peasant-Resistance/dp/0300036418 | Weapons of the Weak: Everyday Forms of Peasant Resistance: Scott, James C.: 9780300036411: Amazon.com: Books
 https://towardsdatascience.com/create-your-own-stable-diffusion-ui-on-aws-in-minutes-35480dfcde6a | Create Your Own Stable Diffusion UI on AWS in Minutes | by Heiko Hotz | Jan, 2023 | Towards Data Science  
 https://www.whowhatwear.com/how-to-capsule-wardrobe/slide3 | The Capsule Wardrobe: How to Reduce Your Closet to 37 Pieces | Who What Wear  
+https://build-your-own.org/redis/
 
 ### Ubuntu
 https://askubuntu.com/questions/59356/how-do-i-get-chinese-input-to-work | language support - How do I get Chinese input to work? - Ask Ubuntu
@@ -264,7 +268,8 @@ https://www.yuque.com/sunsa-i3ayc/sivu7h/rxg3uq6iue2f231t | DiffSinger基础教�
 https://jaywalnut310.github.io/vits-demo/index.html | Audio Samples from "Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech"  
 https://capnproto.org/ | Cap'n Proto -- RPC
 https://minnie.tuhs.org/cgi-bin/utree.pl?file=V6 | https://minnie.tuhs.org/cgi-bin/utree.pl?file=V6  
-
+https://github.com/nostr-protocol/nips/blob/master/01.md | nips/01.md at master · requirement for nostr protocol's client
+https://automerge.org/docs/quickstart/ | automerge - CRDT library usable in js, wasm
 
 ## Tools
 https://notevibes.com/authentication.php | Sign in to Notevibes.com
@@ -341,7 +346,14 @@ https://github.com/GoogleContainerTools/kaniko | GoogleContainerTools/kaniko: Bu
 https://www.andre-gaschler.com/rotationconverter/ | 3D Rotation Converter  
 https://automatisch.io/ | Automatisch - Open Source Zapier Alternative  
 https://scale.com/blog/chatgpt-vs-claude#Analysis%20of%20fictional%20works | Meet Claude: Anthropic’s Rival to ChatGPT | Blog | Scale AI  
+https://gmtk.itch.io/platformer-toolkit | Platformer Toolkit by Game Maker's Toolkit  
+https://trigger.dev/
+https://learnprompting.org/docs/intermediate/zero_shot_cot | 🟢 Zero Shot Chain of Thought | Learn Prompting  
 
+### Writing 
+https://platform.openai.com/ai-text-classifier | OpenAI API  
+https://huggingface.co/openai/whisper-medium | openai/whisper-medium · Hugging Face  
+https://huggingface.co/blog/fine-tune-whisper | Fine-Tune Whisper For Multilingual ASR with 🤗 Transformers  
 
 ## Gyms of coding 
 
@@ -385,3 +397,4 @@ https://chaoclypse.itch.io/ball-to-the-wall | BALL TO THE WALL by Chaoclypse, Co
 https://serponge.itch.io/sparklink | SparkLink by Serponge
 https://www.minetest.net/#features | Minetest - Open source voxel game engine
 https://summer-afternoon.vlucendo.com/ | Summer Afternoon  
+https://slowroads.io/ | s l o w  r o a d s  
